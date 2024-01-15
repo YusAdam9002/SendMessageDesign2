@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstInteractiveApp</string>
+    <string name="SMButton">SendMessage</string>
+    <string name="message">Message</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+</resources>
